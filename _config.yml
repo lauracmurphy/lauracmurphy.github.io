@@ -4,7 +4,7 @@
 locale                   : "en-UK"
 title                    : "Laura C Murphy"
 title_separator          : "-"
-theme                   : jekyll-theme-cayman
+theme                    : jekyll-theme-cayman
 name                     : &name "Dr Laura C Murphy"
 description              : &description "BioImage Analyst in Edinburgh"
 url                      : https://lauracmurphy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -275,4 +275,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll--cayman
